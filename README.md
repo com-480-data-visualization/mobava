@@ -20,7 +20,7 @@ Website Prototype: [Website URL](https://com-480-data-visualization.github.io/mo
 
 ## Milestone 3 (29th May, 5pm)
 
-# Built to Last — Milestone 2 Prototype
+# Built to Last: Milestone 2 Prototype
 
 Static single-page app prototype built with D3.js v7. Three views, view-transition navigation, obvious dummy data.
 
