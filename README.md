@@ -14,7 +14,7 @@ Milestone 1 Report: [PDF Report](milestones/milestone-1/milestone-1.pdf)
 
 ## Milestone 2 (17th April, 5pm)
 
-Milestone 2 Report: [PDF Report](milestone-2.pdf)
+Milestone 1 Report: [PDF Report](milestones/milestone-2/milestone-2.pdf)
 
 Website Prototype: [Website URL](https://com-480-data-visualization.github.io/mobava/)
 
