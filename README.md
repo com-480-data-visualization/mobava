@@ -18,25 +18,11 @@ Milestone 2 Report: [PDF Report](milestone-2.pdf)
 
 Website Prototype: [Website URL](milestone-2.pdf)
 
-**10% of the final grade**
-
 ## Milestone 3 (29th May, 5pm)
-
-**80% of the final grade**
-
-## Late policy
-
-- < 24h: 80% of the grade for the milestone
-- < 48h: 70% of the grade for the milestone
 
 # Built to Last — Milestone 2 Prototype
 
 Static single-page app prototype built with D3.js v7. Three views, view-transition navigation, obvious dummy data.
-
-## Deliverables:
-
-- Report: [TODO]
-- Website URL: [TODO]
 
 ## Getting the dataset
 
@@ -67,7 +53,7 @@ And by visiting the webpage htpp://localhost:8000, or by visualizing the live ve
 
 Single-page app with **three main views**, one active at a time:
 
-1. View 1 - Main (default): filters and bubble chart. Possibility to click a bubble and add it to selection
+1. View 1 - Main: filters and bubble chart. Possibility to click a bubble and add it to selection
 2. View 2 - Sandbox: can be open by clicking on "Open sandbox". It shows clusters with the selected games.
 3. View 3 - Analytics: our reading on the data.
 
