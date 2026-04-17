@@ -47,7 +47,7 @@ cd website
 python3 -m http.server 8000
 ```
 
-And by visiting the webpage htpp://localhost:8000, or by visualizing the live version on [TODO].
+And by visiting the webpage htpp://localhost:8000, or by visualizing the live version [here](https://com-480-data-visualization.github.io/mobava/).
 
 ## Architecture
 
