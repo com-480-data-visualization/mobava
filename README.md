@@ -36,7 +36,7 @@ In particular, the pipeline to obtain the final dataset is the following:
 4. Scrape Steam Charts to Time series data for each game.
 5. Store games that have both RAWG entry and Time series entry.
 
-Since the final dataset contains [TODO] games the scraping procedure can take up to a few hours, thus we advice to use the dataset provided in the dataset/output folder for evaluation.
+We advice to use the already provided dataset in the website/data folder for evaluation.
 
 ## Running locally
 
